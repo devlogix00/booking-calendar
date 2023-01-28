@@ -138,7 +138,7 @@ function highlightDates(){
 //highlightDates();
 
 function closeCalendar(){
-  window.location = 'http://localhost:8080/tourism.html';
+  window.location = 'https://polar-scrubland-06961.herokuapp.com/tourism.html';
 }
 
 class tourCalendar extends React.Component{

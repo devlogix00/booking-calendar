@@ -139,7 +139,7 @@ function highlightDates(){
 //highlightDates();
 
 function closeCalendar(){
-  window.location = 'http://localhost:8080/rooms.html';
+  window.location = 'https://polar-scrubland-06961.herokuapp.com/rooms.html';
 }
 
 class RoomCalendar extends React.Component{

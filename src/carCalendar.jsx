@@ -143,7 +143,7 @@ function highlightDates(){
 //highlightDates();
 
 function closeCalendar(){
-  window.location = 'http://localhost:8080/cars.html';
+  window.location = 'https://polar-scrubland-06961.herokuapp.com/cars.html';
 }
 
 class CarCalendar extends React.Component{
